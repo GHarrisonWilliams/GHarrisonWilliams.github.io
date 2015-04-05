@@ -1,11 +1,14 @@
 body {
     background-color: lightgrey;
 }
-
+p {
+    font-family: "Verdana", Arial, Sans-serif;
+}
 h1 {
     color: black;
-    margin-left: 20px;
 }
+h2 {
+	}
 table {
 	width: 75%;
 	background-color: white;
