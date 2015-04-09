@@ -19,5 +19,8 @@ th {
     text-align: center;
 }
 div (
-	margin-left: 20px
+	margin-left: 20px;
 )
+em{
+	font-weight: bold;
+}
